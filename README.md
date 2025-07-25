@@ -39,14 +39,17 @@ Network Security Engineer | Software Developer | Freelancer
 </picture></a></p>
 
 
-### Badges<b>My GitHub Stats</b>
+### Certifications
 
-<a href="http://www.github.com/Moh756"><img src="https://github-readme-stats.vercel.app/api username=Moh756&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Moh756's GitHub stats" /></a>
-
-<a href="http://www.github.com/Moh756">
-<img src="https://github-readme-streak-stats.herokuapp.com/ user=Moh756&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<b>Top Repositories</b>
-<div width="100%" align="center">
-<a href="https://github.com/Moh756/Moh756" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/ username=Moh756&repo=Moh756&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-</a></div><br /><br /><br /><br /><br /><br /><br />
+<table> 
+  <tr> 
+    <td align="center" width="140"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Fortinet_Logo.svg/512px-Fortinet_Logo.svg.png" width="60" alt="Fortinet"/><br/> <b>Fortinet NSE4</b><br/> <sub>2024</sub> 
+    </td> 
+    <td align="center" width="140"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Huawei_wordmark.svg/512px-Huawei_wordmark.svg.png" width="60" alt="Huawei"/><br/> <b>HCIA-Datacom</b><br/> <sub>2024</sub> 
+    </td> 
+    <td align="center" width="140"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cisco_logo_blue_2016.svg/512px-Cisco_logo_blue_2016.svg.png" width="60" alt="Cisco"/><br/> <b>CCNA R&S</b><br/> <sub>2023</sub> 
+    </td> 
+    <td align="center" width="140"> <img src="https://extremenetworks.com/wp-content/themes/extreme/images/logo.svg" width="60" alt="Extreme Networks"/><br/> <b>EXOS & VOSS</b><br/> <sub>2023</sub> 
+    </td> 
+  </tr> 
+  </table>
