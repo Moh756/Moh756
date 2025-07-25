@@ -41,15 +41,10 @@ Network Security Engineer | Software Developer | Freelancer
 
 ### Certifications
 
-<table> 
-  <tr> 
-    <td align="center" width="140"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Fortinet_Logo.svg/512px-Fortinet_Logo.svg.png" width="60" alt="Fortinet"/><br/> <b>Fortinet NSE4</b><br/> <sub>2024</sub> 
-    </td> 
-    <td align="center" width="140"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Huawei_wordmark.svg/512px-Huawei_wordmark.svg.png" width="60" alt="Huawei"/><br/> <b>HCIA-Datacom</b><br/> <sub>2024</sub> 
-    </td> 
-    <td align="center" width="140"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cisco_logo_blue_2016.svg/512px-Cisco_logo_blue_2016.svg.png" width="60" alt="Cisco"/><br/> <b>CCNA R&S</b><br/> <sub>2023</sub> 
-    </td> 
-    <td align="center" width="140"> <img src="https://extremenetworks.com/wp-content/themes/extreme/images/logo.svg" width="60" alt="Extreme Networks"/><br/> <b>EXOS & VOSS</b><br/> <sub>2023</sub> 
-    </td> 
-  </tr> 
-  </table>
+1. <a href ="https://drive.google.com/file/d/1Ll4cc_hWEceYQ0m4VfEbzBG6DAOfJiX6/view?usp=sharing" target ="_blank" rel="noreferrer"><b>ASP.NET Core MVC</b></a> <br>
+2. <a href ="https://drive.google.com/file/d/1FVTwong-kotYZDVKe2Q6waz7S1u8far4/view?usp=sharing" target ="_blank" rel="noreferrer"><b>Figma UI/UX</b></a> <br>
+3. <a href ="https://drive.google.com/file/d/1FzO5U1DAOySL0muWoMPTW3jMp24SyfA2/view?usp=sharing" target = "_blank" rel="noreferrer"><b>Flutter</b></a>
+4. <a href ="https://drive.google.com/file/d/1lQwmXTQTqnJc7n7YcGBTxQfTiS86epJ1/view?usp=sharing" target ="_blank" rel="noreferrer"><b>NSE4 Network Security Professional</b></a>
+5. <a href ="https://drive.google.com/file/d/1-30L7HjTt1HI4LS3VSS90mp_kGuFOTzt/view?usp=sharing" target ="_blank" rel="noreferrer"><b>WELCOME SERIES – EXTREME FABRIC CONNECT</b><a/>
+6. <a href ="https://drive.google.com/file/d/1-IEx2drUuIO3ahOPs4MisY8D_5NrdrUc/view?usp=sharing" target ="_blank" rel="noreferrer"><b>EXTREME CAMPUS FABRIC – INSTALLATION AND CONFIGURATION</b></a>
+7. <a href ="https://drive.google.com/file/d/14VkQrjZ3RCacbs2v46wOP9GK9_mWAPrX/view?usp=sharing" traget ="_blank" rel="noreferrer"><b>Huawei HCIA Datacom</b></a>
