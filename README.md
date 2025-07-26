@@ -41,10 +41,16 @@ Network Security Engineer | Software Developer | Freelancer
 
 ### Certifications
 
-1. <a href ="https://drive.google.com/file/d/1Ll4cc_hWEceYQ0m4VfEbzBG6DAOfJiX6/view?usp=sharing" target ="_blank" rel="noreferrer"><b>ASP.NET Core MVC</b></a> <br>
+1. <a href ="https://drive.google.com/file/d/1Ll4cc_hWEceYQ0m4VfEbzBG6DAOfJiX6/view?usp=sharing" target ="_blank" rel="noreferrer"><b>ASP.NET Core MVC</b></a> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" title=".NET"/> <br>
+
 2. <a href ="https://drive.google.com/file/d/1FVTwong-kotYZDVKe2Q6waz7S1u8far4/view?usp=sharing" target ="_blank" rel="noreferrer"><b>Figma UI/UX</b></a> <br>
+
 3. <a href ="https://drive.google.com/file/d/1FzO5U1DAOySL0muWoMPTW3jMp24SyfA2/view?usp=sharing" target = "_blank" rel="noreferrer"><b>Flutter</b></a>
+
 4. <a href ="https://drive.google.com/file/d/1lQwmXTQTqnJc7n7YcGBTxQfTiS86epJ1/view?usp=sharing" target ="_blank" rel="noreferrer"><b>NSE4 Network Security Professional</b></a>
+
 5. <a href ="https://drive.google.com/file/d/1-30L7HjTt1HI4LS3VSS90mp_kGuFOTzt/view?usp=sharing" target ="_blank" rel="noreferrer"><b>WELCOME SERIES – EXTREME FABRIC CONNECT</b><a/>
+
 6. <a href ="https://drive.google.com/file/d/1-IEx2drUuIO3ahOPs4MisY8D_5NrdrUc/view?usp=sharing" target ="_blank" rel="noreferrer"><b>EXTREME CAMPUS FABRIC – INSTALLATION AND CONFIGURATION</b></a>
+
 7. <a href ="https://drive.google.com/file/d/14VkQrjZ3RCacbs2v46wOP9GK9_mWAPrX/view?usp=sharing" traget ="_blank" rel="noreferrer"><b>Huawei HCIA Datacom</b></a>
